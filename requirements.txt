@@ -1,6 +1,8 @@
 streamlit
-pandas
 scikit-learn
+pandas
 numpy<2.0.0
-joblib
 matplotlib
+joblib
+gdown
+openpyxl
